@@ -1,4 +1,9 @@
 from stack import Stack
+"""
+We can also reverse strings in python using the syntax string[::-1]
+However, for the purposes of learning, a stack will be used,
+leveraging the LIFO system of a stack datastructure
+"""
 
 
 def reverse_string(string):
